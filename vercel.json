@@ -1,0 +1,19 @@
+{
+  "rewrites": [
+    {
+      "source": "/chatbot-dazzling.js",
+      "destination": "/chatbot-dazzling.js"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/chatbot-dazzling.js",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
+    }
+  ]
+}
